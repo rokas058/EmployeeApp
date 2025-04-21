@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rokas\\source\\repos\\EmployeeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8113327-F186-44FA-9FB4-BB18548F9FB9}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\rokas\\source\\repos\\employeeapp\\employeeapp\\migratedata.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C8113327-F186-44FA-9FB4-BB18548F9FB9}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\migratedata.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8113327-F186-44FA-9FB4-BB18548F9FB9}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\rokas\\source\\repos\\employeeapp\\employeeapp\\verifysubmission.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C8113327-F186-44FA-9FB4-BB18548F9FB9}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\verifysubmission.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8113327-F186-44FA-9FB4-BB18548F9FB9}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\rokas\\source\\repos\\employeeapp\\employeeapp\\setupdatabase.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C8113327-F186-44FA-9FB4-BB18548F9FB9}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\setupdatabase.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8113327-F186-44FA-9FB4-BB18548F9FB9}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\rokas\\source\\repos\\employeeapp\\employeeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8113327-F186-44FA-9FB4-BB18548F9FB9}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8113327-F186-44FA-9FB4-BB18548F9FB9}|EmployeeApp\\EmployeeApp.csproj|c:\\users\\rokas\\source\\repos\\employeeapp\\employeeapp\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8113327-F186-44FA-9FB4-BB18548F9FB9}|EmployeeApp\\EmployeeApp.csproj|solutionrelative:employeeapp\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\rokas\\source\\repos\\EmployeeApp\\EmployeeApp\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\Entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\rokas\\source\\repos\\EmployeeApp\\EmployeeApp\\Entity\\Employee.cs",
+              "RelativeToolTip": "EmployeeApp\\Entity\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:41:07.884Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "migrateData.ps1",
+              "DocumentMoniker": "C:\\Users\\rokas\\source\\repos\\EmployeeApp\\EmployeeApp\\migrateData.ps1",
+              "RelativeDocumentMoniker": "EmployeeApp\\migrateData.ps1",
+              "ToolTip": "C:\\Users\\rokas\\source\\repos\\EmployeeApp\\EmployeeApp\\migrateData.ps1",
+              "RelativeToolTip": "EmployeeApp\\migrateData.ps1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-21T07:56:56.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "setUpDatabase.ps1",
+              "DocumentMoniker": "C:\\Users\\rokas\\source\\repos\\EmployeeApp\\EmployeeApp\\setUpDatabase.ps1",
+              "RelativeDocumentMoniker": "EmployeeApp\\setUpDatabase.ps1",
+              "ToolTip": "C:\\Users\\rokas\\source\\repos\\EmployeeApp\\EmployeeApp\\setUpDatabase.ps1",
+              "RelativeToolTip": "EmployeeApp\\setUpDatabase.ps1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-21T07:46:20.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "verifySubmission.ps1",
+              "DocumentMoniker": "C:\\Users\\rokas\\source\\repos\\EmployeeApp\\EmployeeApp\\verifySubmission.ps1",
+              "RelativeDocumentMoniker": "EmployeeApp\\verifySubmission.ps1",
+              "ToolTip": "C:\\Users\\rokas\\source\\repos\\EmployeeApp\\EmployeeApp\\verifySubmission.ps1",
+              "RelativeToolTip": "EmployeeApp\\verifySubmission.ps1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-21T07:22:38.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rokas\\source\\repos\\EmployeeApp\\EmployeeApp\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeApp\\Program.cs",
+              "ToolTip": "C:\\Users\\rokas\\source\\repos\\EmployeeApp\\EmployeeApp\\Program.cs",
+              "RelativeToolTip": "EmployeeApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:20:27.188Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1359,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
