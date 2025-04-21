@@ -6,7 +6,7 @@ This project uses a **PostgreSQL** database and `Entity Framework Core` for data
 
 ## ⚙️ How to Set Up the Project
 
-Follow the steps below to initialize the PostgreSQL database, apply Entity Framework migrations, and verify the setup.
+Follow the steps below to initialize the PostgreSQL database, apply Entity Framework migrations, and test add and get employee.
 
 ---
 
